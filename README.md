@@ -1,7 +1,4 @@
-Excelente! Vamos criar um README.md mais completo para o seu jogo Super Mario.
-Aqui está uma sugestão, incorporando mais detalhes e formatação Markdown para um README mais profissional:
 
-Markdown
 ## Super Mario - Um Clássico Reimaginado
 
 ### Descrição
